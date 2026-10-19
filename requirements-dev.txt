@@ -1,0 +1,6 @@
+# tests need no browser: Selenium is imported only when the monitor actually runs
+requests>=2.32
+python-dotenv>=1.0
+pytest>=8
+pytest-cov>=5
+ruff>=0.6
